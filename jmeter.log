@@ -1,0 +1,49 @@
+2022-12-14 17:28:27,426 INFO o.a.j.u.JMeterUtils: Setting Locale to en_UA
+2022-12-14 17:28:27,448 INFO o.a.j.JMeter: Loading user properties from: /Users/Taras_Shablii/Documents/mse/sdt503_perf-test/jmeter/apache-jmeter-5.5/bin/user.properties
+2022-12-14 17:28:27,448 INFO o.a.j.JMeter: Loading system properties from: /Users/Taras_Shablii/Documents/mse/sdt503_perf-test/jmeter/apache-jmeter-5.5/bin/system.properties
+2022-12-14 17:28:27,449 INFO o.a.j.JMeter: Setting JMeter property: threads={1}
+2022-12-14 17:28:27,449 INFO o.a.j.JMeter: Setting JMeter property: loops={2}
+2022-12-14 17:28:27,458 INFO o.a.j.JMeter: Copyright (c) 1998-2022 The Apache Software Foundation
+2022-12-14 17:28:27,458 INFO o.a.j.JMeter: Version 5.5
+2022-12-14 17:28:27,458 INFO o.a.j.JMeter: java.version=1.8.0_322
+2022-12-14 17:28:27,458 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2022-12-14 17:28:27,458 INFO o.a.j.JMeter: os.name=Mac OS X
+2022-12-14 17:28:27,458 INFO o.a.j.JMeter: os.arch=x86_64
+2022-12-14 17:28:27,458 INFO o.a.j.JMeter: os.version=10.16
+2022-12-14 17:28:27,459 INFO o.a.j.JMeter: file.encoding=UTF-8
+2022-12-14 17:28:27,459 INFO o.a.j.JMeter: java.awt.headless=true
+2022-12-14 17:28:27,459 INFO o.a.j.JMeter: Max memory     =7635730432
+2022-12-14 17:28:27,459 INFO o.a.j.JMeter: Available Processors =16
+2022-12-14 17:28:27,464 INFO o.a.j.JMeter: Default Locale=English (Ukraine)
+2022-12-14 17:28:27,464 INFO o.a.j.JMeter: JMeter  Locale=English (Ukraine)
+2022-12-14 17:28:27,464 INFO o.a.j.JMeter: JMeterHome=/Users/Taras_Shablii/Documents/mse/sdt503_perf-test/jmeter/apache-jmeter-5.5
+2022-12-14 17:28:27,464 INFO o.a.j.JMeter: user.dir  =/Users/Taras_Shablii/Documents/mse/sdt503_perf-test
+2022-12-14 17:28:27,465 INFO o.a.j.JMeter: PWD       =/Users/Taras_Shablii/Documents/mse/sdt503_perf-test
+2022-12-14 17:28:27,467 INFO o.a.j.JMeter: IP: 10.25.22.29 Name: EPUALVIW0BCE FullName: epualviw0bce.kyiv.epam.com
+2022-12-14 17:28:27,489 INFO o.a.j.s.FileServer: Default base='/Users/Taras_Shablii/Documents/mse/sdt503_perf-test'
+2022-12-14 17:28:27,490 INFO o.a.j.s.FileServer: Set new base='/Users/Taras_Shablii/Documents/mse/sdt503_perf-test'
+2022-12-14 17:28:27,633 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2022-12-14 17:28:27,653 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2022-12-14 17:28:27,658 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2022-12-14 17:28:27,665 INFO o.a.j.s.SaveService: Loading file: PetStorePerfTest.jmx
+2022-12-14 17:28:27,727 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-12-14 17:28:27,727 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-12-14 17:28:27,727 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-12-14 17:28:27,727 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-12-14 17:28:27,727 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2022-12-14 17:28:27,727 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2022-12-14 17:28:28,023 INFO o.a.j.JMeter: Creating summariser <summary>
+2022-12-14 17:28:28,033 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2022-12-14 17:28:28,034 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2022-12-14 17:28:28,034 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2022-12-14 17:28:28,039 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2022-12-14 17:28:28,039 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2022-12-14 17:28:28,354 INFO o.a.j.JMeter: Running test (1671031708354)
+2022-12-14 17:28:28,420 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group
+2022-12-14 17:28:28,421 INFO o.a.j.e.StandardJMeterEngine: Starting 0 threads for group Thread Group.
+2022-12-14 17:28:28,421 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2022-12-14 17:28:28,421 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=0 ramp-up=1 delayedStart=false
+2022-12-14 17:28:28,421 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2022-12-14 17:28:28,421 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2022-12-14 17:28:28,421 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2022-12-14 17:28:28,422 INFO o.a.j.r.Summariser: summary =      0 in 00:00:00 = ******/s Avg:     0 Min: 9223372036854775807 Max: -9223372036854775808 Err:     0 (0.00%)
